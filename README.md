@@ -3,7 +3,7 @@
 Hi, I'm Ayushi George! 
 I'm a React Native Developer, Web Developer, Software Developer Enthusiast and an open source contributor. I'm currently a Google Developer Studnet lub Lead and pursuing B.Tech at JECRC College affiliated with Rajasthan Tenical University, Rajasthan, India.
 
-💻 Technical Content Writer at GeeksforGeeks (Checkout here- https://rb.gy/kqf7i5)
+💻 Technical Content Writer at GeeksforGeeks (Checkout here- )
 🎓 An Open-Source enthusiast
 ➡️ YouTuber
 
@@ -22,7 +22,7 @@ My skills include :
 💬 Ask me about Web Development, React Native, SQL, Databases.
 😄 Pronouns: He/His
 
-Top Langs Anurag's github stats
+Top Langs Ayushi's github stats
 
 Find me around the web 🌎:
 
